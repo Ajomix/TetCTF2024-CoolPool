@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\CTF\tetctf2024\driver\POC\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(284,13): warning C4101: 'ccb_entry_of_corrupt': unreferenced local variable
+D:\CTF\tetctf2024\driver\POC\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(327,16): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'char *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> D:\CTF\tetctf2024\driver\POC\ConsoleApplication1\Release\ConsoleApplication1.exe

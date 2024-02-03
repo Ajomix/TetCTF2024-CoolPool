@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+D:\CTF\tetctf2024\driver\POC\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,64): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\CTF\tetctf2024\driver\POC\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
